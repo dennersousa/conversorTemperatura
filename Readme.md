@@ -96,8 +96,8 @@ Deseja realizar outra conversão?
 Certifique-se de ter o Go instalado. Em seguida, execute os seguintes comandos:
 
 ```bash
-go get -u github.com/seu-usuario/conversorTemperatura
-cd $GOPATH/src/github.com/seu-usuario/conversorTemperatura
+go get -u github.com/marcuscarvalhodev/conversorTemperatura
+cd $GOPATH/src/github.com/marcuscarvalhodev/conversorTemperatura
 go run main.go
 ```
 
