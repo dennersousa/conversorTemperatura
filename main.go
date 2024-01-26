@@ -154,7 +154,7 @@ func converterDeCelsius(temperatura float64, unidadeConvertida string) float64 {
 }
 
 // converterDeFahrenheit converte a temperatura de Fahrenheit para a unidade especificada.
-func converterDeFahrenheit(temperatura float64, unidadeConvertida string) float64 {
+func converterDeFahrenheit(tempxeratura float64, unidadeConvertida string) float64 {
 	switch unidadeConvertida {
 	case "celsius":
 		return (temperatura - 32) * 5 / 9
